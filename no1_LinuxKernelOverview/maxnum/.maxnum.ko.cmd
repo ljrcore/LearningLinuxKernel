@@ -1,0 +1,1 @@
+cmd_/home/ljr/GitHub/LearningLinuxKernel/no1_概述/maxnum/maxnum.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/ljr/GitHub/LearningLinuxKernel/no1_概述/maxnum/maxnum.ko /home/ljr/GitHub/LearningLinuxKernel/no1_概述/maxnum/maxnum.o /home/ljr/GitHub/LearningLinuxKernel/no1_概述/maxnum/maxnum.mod.o ;  true
