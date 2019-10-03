@@ -1,0 +1,9 @@
+obj-m:=rbtree.o
+CU_PATH:=$(shell pwd)
+LK:=$(shell uname -r)
+LK_PATH:=/usr/src/linux-headers-$(LK)
+all:
+	make -C $(LK_PATH) M=$(CU_PATH);
+clean:
+	make -C $(LK_PATH) M=$(CU_PATH);
+	rm -f *.ko;
