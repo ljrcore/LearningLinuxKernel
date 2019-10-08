@@ -7,6 +7,7 @@
 |[手把手教你搭建Linux开发环境（VMware+Ubuntu）（一）——安装VMware虚拟机和Ubuntu](https://blog.csdn.net/qq_34258344/article/details/101175849)| 
 |[手把手教你搭建Linux开发环境（VMware+Ubuntu）（二）——安装VMwareTools并设置共享文件夹](https://blog.csdn.net/qq_34258344/article/details/101942788)  | 
 | [手把手教你搭建Linux开发环境（VMware+Ubuntu）（三）——Ubuntu下vim编辑器的安装、配置和使用](https://blog.csdn.net/qq_34258344/article/details/97525312) |
+| [手把手教你搭建Linux开发环境（VMware+Ubuntu）（四）——gcc编译器的安装和使用](https://blog.csdn.net/qq_34258344/article/details/101975444) |
 | [Linux初学者接住了---Linux常用命令](https://blog.csdn.net/qq_34258344/article/details/96960662) |
 | [Xshell远程登录Ubuntu](https://blog.csdn.net/qq_34258344/article/details/97394189) |
 | [网站迁移的一般步骤、常见问题及解决措施](https://blog.csdn.net/qq_34258344/article/details/99619696) |
@@ -31,3 +32,4 @@
 ##  <center><font color="#00dddd">其它</font><br /></center>
 | [Docker初体验](https://blog.csdn.net/qq_34258344/article/details/95972999) |
 | -- |
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560594152290&di=0868a18dba47fee131453d3e58fd1b7b&imgtype=0&src=http%3A%2F%2Fimg.article.pchome.net%2F00%2F41%2F18%2F54%2Fpic_lib%2Fs960x639%2Flinux_08s960x639.jpg)
