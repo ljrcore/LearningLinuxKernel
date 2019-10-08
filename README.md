@@ -14,6 +14,9 @@
 ##  <center><font color="#00dddd">Linux内核系列</font><br /></center>
 ||
 |--|
+|[西邮陈莉君教授Linux内核概述导学](https://blog.csdn.net/qq_34258344/article/details/102399144)|
+|[西邮陈莉君教授Linux内核内存寻址导学](https://blog.csdn.net/qq_34258344/article/details/102399578)|
+|[西邮陈莉君教授Linux内核进程管理导学](https://blog.csdn.net/qq_34258344/article/details/102399917)|
 | [Linxu内核模块开发入门](https://blog.csdn.net/qq_34258344/article/details/95028200) |
 | [Linux内核中max()宏的奥妙何在？（一）](https://blog.csdn.net/qq_34258344/article/details/101039771) |
 | [Linux内核中max()宏的奥妙何在？（二）——大神Linus对这个宏怎么看？](https://blog.csdn.net/qq_34258344/article/details/101161512) |
