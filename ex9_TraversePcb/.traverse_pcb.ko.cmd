@@ -1,1 +1,0 @@
-cmd_/home/ljr/linux_code/no31-traverse_pcb/traverse_pcb.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/ljr/linux_code/no31-traverse_pcb/traverse_pcb.ko /home/ljr/linux_code/no31-traverse_pcb/traverse_pcb.o /home/ljr/linux_code/no31-traverse_pcb/traverse_pcb.mod.o ;  true
