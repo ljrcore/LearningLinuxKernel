@@ -19,6 +19,7 @@
 |[陈老师Linux内核内存寻址导学](https://blog.csdn.net/qq_34258344/article/details/102399578)|
 |[陈老师Linux内核进程管理导学](https://blog.csdn.net/qq_34258344/article/details/102399917)|
 | [Linxu内核模块开发入门](https://blog.csdn.net/qq_34258344/article/details/95028200) |
+| [内核第一宏list_entry()](https://mp.weixin.qq.com/s/z5gEOe983DbCqZjEXWKthg) |
 | [Linux内核中max()宏的奥妙何在？（一）](https://blog.csdn.net/qq_34258344/article/details/101039771) |
 | [Linux内核中max()宏的奥妙何在？（二）——大神Linus对这个宏怎么看？](https://blog.csdn.net/qq_34258344/article/details/101161512) |
 | [Linux内核之浅谈内存寻址](https://blog.csdn.net/qq_34258344/article/details/95519020)|
