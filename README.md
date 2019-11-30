@@ -11,6 +11,7 @@
 | [Linux初学者接住了---Linux常用命令](https://blog.csdn.net/qq_34258344/article/details/96960662) |
 | [Xshell远程登录Ubuntu](https://blog.csdn.net/qq_34258344/article/details/97394189) |
 | [网站迁移的一般步骤、常见问题及解决措施](https://blog.csdn.net/qq_34258344/article/details/99619696) |
+| [Linux系统cpu负载浅析](https://blog.csdn.net/qq_34258344/article/details/102584504) |
 
 ##  <center><font color="#00dddd">Linux内核系列</font><br /></center>
 ||
@@ -24,14 +25,19 @@
 | [Linux内核中max()宏的奥妙何在？（二）——大神Linus对这个宏怎么看？](https://blog.csdn.net/qq_34258344/article/details/101161512) |
 | [Linux内核之浅谈内存寻址](https://blog.csdn.net/qq_34258344/article/details/95519020)|
 | [Linux内核之话说进程](https://blog.csdn.net/qq_34258344/article/details/98347167) |
-| [linux内核之内核同步（一）:内核同步基础](https://blog.csdn.net/qq_34258344/article/details/100592236) |
+| [linux内核之内核同步（一）——内核同步基础](https://blog.csdn.net/qq_34258344/article/details/100592236) |
+| [Linux内核之内核同步（二）——原子操作](https://blog.csdn.net/qq_34258344/article/details/100592236) |
+| [Linux内核之内核同步（三）——自旋锁](https://blog.csdn.net/qq_34258344/article/details/103326114) |
 
 ##  <center><font color="#00dddd">Git</font><br /></center>
 | [Linux下如何快速使用GitHub](https://blog.csdn.net/qq_34258344/article/details/100625434) |
 |--|
 
 ##  <center><font color="#00dddd">其它</font><br /></center>
-| [Docker初体验](https://blog.csdn.net/qq_34258344/article/details/95972999) |
 | -- |
+| [Docker初体验](https://blog.csdn.net/qq_34258344/article/details/95972999) |
+| [Ubuntu中安装最新Docker社区版](https://blog.csdn.net/qq_34258344/article/details/102671094) |  
+| [Ubuntu中安装docker-compose](https://blog.csdn.net/qq_34258344/article/details/102715511) | 
+|[Ubuntu下安装中文输入法（本博客安装的搜狗输入法）](https://blog.csdn.net/qq_34258344/article/details/102997942)|
 
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560594152290&di=0868a18dba47fee131453d3e58fd1b7b&imgtype=0&src=http%3A%2F%2Fimg.article.pchome.net%2F00%2F41%2F18%2F54%2Fpic_lib%2Fs960x639%2Flinux_08s960x639.jpg)
