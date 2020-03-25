@@ -1,0 +1,1 @@
+cmd_/home/ljr/Learning_linux_kernel/ex13-syscall/syscall.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/ljr/Learning_linux_kernel/ex13-syscall/syscall.ko /home/ljr/Learning_linux_kernel/ex13-syscall/syscall.o /home/ljr/Learning_linux_kernel/ex13-syscall/syscall.mod.o ;  true
