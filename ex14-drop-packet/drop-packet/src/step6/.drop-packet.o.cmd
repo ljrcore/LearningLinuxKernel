@@ -1,0 +1,1 @@
+cmd_/home/xiebaoyou/study/陈老师/drop-packet/src/step6/drop-packet.o := ld -m elf_x86_64 -z max-page-size=0x200000   -r -o /home/xiebaoyou/study/陈老师/drop-packet/src/step6/drop-packet.o /home/xiebaoyou/study/陈老师/drop-packet/src/step6/main.o /home/xiebaoyou/study/陈老师/drop-packet/src/step6/misc.o 
